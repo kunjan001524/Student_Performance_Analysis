@@ -1,7 +1,7 @@
 # Student_Performance_Analysis
 A Python-based data analysis project that explores student academic performance using exploratory data analysis (EDA), factor analysis, data visualization, and at-risk student segmentation to generate actionable educational insights.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes student academic performance using Python and Exploratory Data Analysis (EDA). The objective is to identify the factors influencing student performance and provide data-driven recommendations to improve educational outcomes.
 
@@ -9,7 +9,7 @@ The analysis includes data cleaning, factor analysis, data visualization, at-ris
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 The school principal wants to understand the factors affecting student performance and identify students who require additional academic support. This project answers the following questions:
 
@@ -22,7 +22,7 @@ The school principal wants to understand the factors affecting student performan
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Dataset:** Students Performance in Exams
 
@@ -41,7 +41,7 @@ The dataset contains information about students, including:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -52,7 +52,7 @@ The dataset contains information about students, including:
 
 ---
 
-## 📋 Project Workflow
+##  Project Workflow
 
 1. Data Loading
 2. Data Cleaning
@@ -65,7 +65,7 @@ The dataset contains information about students, including:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes the following visualizations:
 
@@ -78,7 +78,7 @@ The project includes the following visualizations:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Students whose parents have higher education levels generally achieve better academic results.
 - Students who completed the test preparation course scored higher in all subjects.
@@ -90,7 +90,7 @@ The project includes the following visualizations:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Encourage participation in test preparation courses.
 - Provide remedial classes for at-risk students.
@@ -100,7 +100,7 @@ The project includes the following visualizations:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Build an interactive Power BI dashboard.
 - Develop a machine learning model to predict student performance.
@@ -109,7 +109,7 @@ The project includes the following visualizations:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Patel Kunjan**
 
